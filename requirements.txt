@@ -1,0 +1,5 @@
+openai-whisper==1.0.0
+sounddevice==0.4.6
+soundfile==0.10.3.post1
+numpy==1.23.5
+torch #if necessary
